@@ -26,3 +26,9 @@ My primary focus now is to learn by working on real projects and collaborate wit
 Connect with me on [LinkedIn](https://www.linkedin.com/in/diego-maximiliano-orias-45961b240) to explore potential collaborations or projects.
 
 Thank you for visiting my profile! I'm excited about what the future holds in my journey of learning and expanding in web development.
+
+<div style="background-color: #f7f7f7; padding: 10px;">
+    <p style="text-align: center;">
+        <img src="https://example.com/avatar.jpg" alt="Diego Maximiliano Orias" width="150" style="border-radius: 50%;">
+    </p>
+</div>
