@@ -4,6 +4,9 @@ Hello there! I'm Diego Maximiliano Orias, a passionate and enthusiastic beginner
 
 ## Skills
 
+- C
+- Java
+- Python
 - HTML
 - CSS
 - JavaScript
