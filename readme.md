@@ -1,31 +1,18 @@
-# Diego Maximiliano Orias
+# Maxi Orias
 
-Hello there! I'm Diego Maximiliano Orias, a passionate and enthusiastic beginner in the world of web development. My goal is to learn while working and expand my knowledge in this exciting industry.
+Desarrollador full-stack en Trelew, Chubut. Vengo de la electrónica: de los circuitos al código.
 
-## Skills
+Hoy me dedico a **[SinaPsi](https://sinapsisoftware.com)**, un software que hice para psicopedagogas y fonoaudiólogas. Cargan los puntajes de un test, el sistema calcula los resultados, arma los gráficos y les deja el informe en Word. Tiene 17 instrumentos y lo usan profesionales que pagan por usarlo. El código es privado porque maneja datos de pacientes.
 
-- C
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- React
-- Git
-- Sass
-- Node.js (basic knowledge)
-- MySQL (basic knowledge)
+### Otras cosas que hice
 
-## About Me
+- **[Cotizador CNC](https://cotizador-cnc-demo.vercel.app)**: el cliente de un taller diseña su pieza o sube un DXF y ve cuánto sale. Calcula el tiempo de máquina y cómo entran las piezas en la placa.
+- **Sitios para clientes**: una psicopedagoga, un emprendimiento de sublimación, una empresa de domótica, un estudio de arquitectura. Están todos en el portfolio.
 
-I'm currently focused on front-end development, utilizing technologies like HTML, CSS, and JavaScript to create appealing and functional interfaces for users. I'm also diving into the world of **React**, a framework that allows me to build interactive and responsive web applications.
+### Con qué trabajo
 
-Although I'm a beginner, I have a solid foundation in version control using **Git** and I'm familiar with concepts like branches, commits, and merges. Additionally, I've been exploring CSS preprocessors like **Sass** to improve code efficiency and reusability.
+React · Astro · Tailwind · JavaScript · Node.js · Firebase · Supabase / PostgreSQL · Mercado Pago · Vercel
 
-## Looking to Collaborate
+### Dónde encontrarme
 
-My primary focus now is to learn by working on real projects and collaborate with other developers to enhance my skills. I'm open to exciting opportunities where I can contribute and learn simultaneously.
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/diego-maximiliano-orias-45961b240) to explore potential collaborations or projects.
-
-Thank you for visiting my profile! I'm excited about what the future holds in my journey of learning and expanding in web development.
+[Portfolio](https://maxi-portfolio-tawny.vercel.app) · [LinkedIn](https://www.linkedin.com/in/diegomaximilianoorias) · [SinaPsi](https://sinapsisoftware.com)
