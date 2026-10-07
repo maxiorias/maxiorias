@@ -5,9 +5,12 @@ Desarrollador full-stack en Trelew, Chubut. Vengo de la electrónica: de los cir
 Hoy me dedico a **[SinaPsi](https://sinapsisoftware.com)**, un software que hice para psicopedagogas y fonoaudiólogas. Cargan los puntajes de un test, el sistema calcula los resultados, arma los gráficos y les deja el informe en Word. Tiene 17 instrumentos y lo usan profesionales que pagan por usarlo. El código es privado porque maneja datos de pacientes.
 
 <p>
-  <a href="https://sinapsisoftware.com"><img src="img/sinapsi-dispositivos.webp" height="270" alt="SinaPsi en computadora y celular"></a>
-  <img src="img/sinapsi-perfil.webp" height="270" alt="Gráfico de perfil del ENI-2 en SinaPsi">
-  <img src="img/sinapsi-resultados.webp" height="270" alt="Resultados del CELF-5 en SinaPsi">
+  <a href="https://sinapsisoftware.com"><img src="img/sinapsi-dispositivos.webp" height="260" alt="SinaPsi en computadora y celular"></a>
+  <img src="img/sinapsi-enip.webp" height="260" alt="Perfil de índices del ENI-P en SinaPsi">
+</p>
+<p>
+  <img src="img/sinapsi-cumanes.webp" width="52%" alt="Perfil de decatipos del CUMANES en SinaPsi">
+  <img src="img/sinapsi-teprosif.webp" width="46%" alt="Procesos de simplificación fonológica del TEPROSIF-R en SinaPsi">
 </p>
 
 ### Otras cosas que hice
